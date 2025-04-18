@@ -46,10 +46,9 @@ O sistema foi construído utilizando **Árvore Binária de Busca (ABB)** como es
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
 </div>
 
-<h4 align="left">• Motor Gráfico Personalizado:</h4>
-
+### • Motor Gráfico Personalização de Sistemas:
 <div align="left">
-  <img src="https://raw.githubusercontent.com/vitormanoelvb/Sistema-Biblioteca-Univale-DR.-GERALDO-VIANNA-CRUZ/main/assets/vm_engine.png" height="100" alt="VM Engine Logo" />
+  <img src="VM%20ENGINE.png" height="100" alt="VM Engine Logo" />
 </div>
 
 > **VM Engine Development v1.0** é o motor gráfico de console criado exclusivamente para este projeto, oferecendo menus estilizados, animações de abertura, login com senha e identidade visual integrada ao sistema.
@@ -83,3 +82,9 @@ Desenvolvido por:
 ### 🧑‍💻 Wauclidson Alves Dias  
 🔗 GitHub: [WAUCLIDSON](https://github.com/WAUCLIDSON)  
 🔗 Repositório: [Biblioteca-Univale](https://github.com/WAUCLIDSON/Biblioteca-Univale)
+
+<div align="center"> 
+  <img src="BANNER%20-%20VEW%20SOLU%C3%87%C3%95ES.png" width="100%" alt="VEW Soluções Banner" />
+</div>
+
+> **@vewsoluções2025**
