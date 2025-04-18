@@ -94,6 +94,9 @@ Desenvolvido por:
 
 ---
 
+🎮 **Conheça mais sobre o Projeto VM Engine (SkyFall)**  
+📺 YouTube: [@VitorManoelVB](https://www.youtube.com/@VitorManoelVB)
+
 ###
 
 <h2 align="left">Redes Sociais - Univale:</h2>
