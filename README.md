@@ -75,7 +75,9 @@ Essa parceria busca transformar ideias acadêmicas em produtos de software profi
 
 ###
 
-<h4 align="left">Código desenvolvido por Vitor Manoel e Wauclidson Dias, como parte do portfólio prático do Trabalho Final da disciplina de Estrura de Dados do curso de Sistemas de Informação da Univale - Universidade Vale do Rio Doce.</h4>
+<h4 align="left">• Projeto orientado pelo professor Henrique Bianor Freitas Silva.</h4>
+
+<h4 align="left">• Código desenvolvido por Vitor Manoel e Wauclidson Dias, como parte do portfólio prático do Trabalho Final da disciplina de Estrura de Dados do curso de Sistemas de Informação da Univale - Universidade Vale do Rio Doce.</h4>
 
 ###
 
