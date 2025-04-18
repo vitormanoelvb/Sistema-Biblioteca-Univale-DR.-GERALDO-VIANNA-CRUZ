@@ -1,4 +1,5 @@
-# 📚 Sistema de Gerenciamento de Biblioteca - UNIVALE 🏫
+<h1 align="center">📚 Sistema de Gerenciamento de Biblioteca - UNIVALE 🏫
+</h1>
 
 Projeto final da disciplina de **Estrutura de Dados**, desenvolvido para simular o funcionamento de uma biblioteca universitária com funcionalidades completas de controle, busca, aluguel e relatórios administrativos.  
 
