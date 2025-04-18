@@ -73,6 +73,12 @@ Essa parceria busca transformar ideias acadêmicas em produtos de software profi
 
 ## 👨‍💻 Autoria
 
+###
+
+<h4 align="left">Código desenvolvido por Vitor Manoel e Wauclidson Dias, como parte do portfólio prático do Trabalho Final da disciplina de Estrura de Dados do curso de Sistemas de Informação da Univale - Universidade Vale do Rio Doce.</h4>
+
+###
+
 Desenvolvido por:
 
 ### 🧑‍💻 Vitor Manoel Vidal Braz  
@@ -82,6 +88,36 @@ Desenvolvido por:
 ### 🧑‍💻 Wauclidson Alves Dias  
 🔗 GitHub: [WAUCLIDSON](https://github.com/WAUCLIDSON)  
 🔗 Repositório: [Biblioteca-Univale](https://github.com/WAUCLIDSON/Biblioteca-Univale)
+
+---
+
+###
+
+<h2 align="left">Redes Sociais - Univale:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/Univale?mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/UnivaleGV?t=GG3yvwT-03gOueuSgPHMkg&s=09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/univalegv?igsh=MWk2M2JnNHYwZnp4dw==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="instagram logo"  />
+  </a>
+  <a href="https://br.linkedin.com/school/univalegv/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
+  </a>
+  <a href="https://youtube.com/@univale?si=M-sfT4D0J5PYWvGT" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="youtube logo"  />
+  </a>
+</div>
+
+---
+
+###
 
 <div align="center"> 
   <img src="BANNER%20-%20VEW%20SOLU%C3%87%C3%95ES.png" width="100%" alt="VEW Soluções Banner" />
